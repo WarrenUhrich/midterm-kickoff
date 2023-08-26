@@ -1,6 +1,6 @@
 # Lighthouse Labs | Mid-Term Kick-off
 
-[GitHub Repository Branch](https://github.com/WarrenUhrich/midterm-kickoff) | [Vimeo Video Recording](https://vimeo.com/858081846/68a1a0bf1c?share=copy)
+[GitHub Repository Branch](https://github.com/WarrenUhrich/midterm-kickoff/tree/2023.08.25-web-immersive-west-24july2023) | [Vimeo Video Recording](https://vimeo.com/858081846/68a1a0bf1c?share=copy)
 
 * [X] Setting the Stage
 * [X] The Mid-Terms Project
